@@ -9,3 +9,8 @@ Nombre Completo : Juan Carlos Mendoza Hernandez
 2219002
 232
 nuevas lineas
+
+httpp 
+request
+ajax
+fetch
